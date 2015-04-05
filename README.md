@@ -16,4 +16,6 @@ A script to run that hardens a newly set up desktop Linux computer. This script 
 
 ## To Do
 
+* Remove or find alternative to TrueCrypt
+* Add 32 bit installs options for software
 * Write AppArmor profiles for Chrome, Pidgin, LibreOffice, Jitsi, Skype, VLC
